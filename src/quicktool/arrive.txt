@@ -1,0 +1,218 @@
+
+W3 363 	Arik Air 	(LAD) Luanda 	5:05 AM 	Scheduled
+	
+W3 102 	Arik Air 	(LHR) London 	5:15 AM 	En Route
+	
+AT 555 	Royal Air Maroc 	(CMN) Casablanca 	5:21 AM 	En Route     On-time 	
+AT 554 	Royal Air Maroc 	(CMN) Casablanca 	6:25 AM 	Scheduled
+	
+AJ 141 	Aero 	(KAN) Kano 	6:30 AM 	Scheduled
+	
+AJ 121 	Aero 	(ABV) Abuja 	6:45 AM 	Scheduled
+	
+W3 740 	Arik Air 	(PHC) Port Harcourt 	7:00 AM 	Scheduled
+	
+W3 720 	Arik Air 	(ABV) Abuja 	7:00 AM 	Scheduled
+	
+AJ 311 	Aero 	(PHC) Port Harcourt 	7:00 AM 	Scheduled
+	
+9J 353 	Dana Airlines 	(ABV) Abuja 	7:02 AM 	Scheduled
+	
+W3 616 	Arik Air 	(QUO) Uyo 	7:15 AM 	Scheduled
+	
+AJ 2001 	Aero 	(ACC) Accra 	7:15 AM 	Scheduled
+	
+W3 610 	Arik Air 	(ENU) Enugu 	7:20 AM 	Scheduled
+	
+W3 300 	Arik Air 	(ACC) Accra 	7:20 AM 	Scheduled
+	
+9J 341 	Dana Airlines 	(PHC) Port Harcourt 	7:20 AM 	Scheduled
+	
+W3 638 	Arik Air 	(CBQ) Calabar 	7:30 AM 	Scheduled
+	
+W3 620 	Arik Air 	(BNI) Benin City 	7:30 AM 	Scheduled
+	
+W3 729 	Arik Air 	(ABV) Abuja 	7:30 AM 	Scheduled
+	
+AJ 181 	Aero 	(KAD) Kaduna 	7:30 AM 	Scheduled
+9J 333 	Dana Airlines 	(QUO) Uyo 	9:18 AM 	Scheduled
+	
+W3 751 	Arik Air 	(PHC) Port Harcourt 	9:30 AM 	Scheduled
+	
+EY 674 	Etihad Airways 	(AUH) Abu Dhabi 	9:50 AM 	Scheduled
+	
+AJ 301 	Aero 	(ENU) Enugu 	10:35 AM 	Scheduled
+	
+AJ 313 	Aero 	(PHC) Port Harcourt 	10:35 AM 	Scheduled
+	
+W3 724 	Arik Air 	(ABV) Abuja 	11:00 AM 	Scheduled
+	
+W3 742 	Arik Air 	(PHC) Port Harcourt 	11:00 AM 	Scheduled
+	
+VS 652 	Virgin Atlantic 	(LHR) London 	11:00 AM 	Scheduled
+	
+AJ 123 	Aero 	(ABV) Abuja 	11:00 AM 	Scheduled
+	
+W3 612 	Arik Air 	(KAN) Kano 	11:05 AM 	Scheduled
+	
+9J 355 	Dana Airlines 	(ABV) Abuja 	11:07 AM 	Scheduled
+	
+W3 380 	Arik Air 	(COO) Cotonou 	11:15 AM 	Scheduled
+	
+W3 622 	Arik Air 	(BNI) Benin City 	11:25 AM 	Scheduled
+	
+AJ 161 	Aero 	(BNI) Benin City 	11:30 AM 	Scheduled
+	
+W3 662 	Arik Air 	(JOS) Jos 	11:30 AM 	Scheduled
+	
+W3 660 	Arik Air 	(KAD) Kaduna 	11:35 AM 	Scheduled
+	
+AFW 215 	Africa World Airlines 	(ACC) Accra 	11:55 AM 	Scheduled
+KQ 533 	Kenya Airways 	(NBO) Nairobi 	12:30 PM 	Scheduled
+	
+AJ 171 	Aero 	(CBQ) Calabar 	12:35 PM 	Scheduled
+	
+W3 101 	Arik Air 	(LHR) London 	12:45 PM 	Scheduled
+	
+W3 107 	Arik Air 	(JFK) New York 	12:45 PM 	Scheduled
+	
+W3 733 	Arik Air 	(ABV) Abuja 	1:00 PM 	Scheduled
+	
+9J 335 	Dana Airlines 	(ABV) Abuja 	1:23 PM 	Scheduled
+	
+W3 753 	Arik Air 	(PHC) Port Harcourt 	1:30 PM 	Scheduled
+	
+ET 900 	Ethiopian Airlines 	(ADD) Addis Ababa 	1:30 PM 	Scheduled
+	
+MS 876 	EgyptAir 	(CAI) Cairo 	1:45 PM 	Scheduled
+	
+AJ 353 	Aero 	(QRW) Warri 	2:00 PM 	Scheduled
+	
+AJ 315 	Aero 	(PHC) Port Harcourt 	2:15 PM 	Scheduled
+	
+KP 25 	ASKY 	(LFW) Lome 	2:15 PM 	Scheduled
+	
+ET 1041 	Ethiopian Airlines 	(LFW) Lome 	2:15 PM 	Scheduled
+	
+EK 784 	Emirates 	(DXB) Dubai 	2:40 PM 	Scheduled
+	
+AJ 127 	Aero 	(ABV) Abuja 	2:45 PM 	Scheduled
+	
+QR 1416 	Qatar Airways 	(DOH) Doha 	2:55 PM 	Scheduled
+W3 634 	Arik Air 	(QRW) Warri 	3:10 PM 	Scheduled
+	
+W3 636 	Arik Air 	(CBQ) Calabar 	3:15 PM 	Scheduled
+	
+W3 632 	Arik Air 	(QRW) Warri 	3:20 PM 	Scheduled
+	
+9J 357 	Dana Airlines 	(ABV) Abuja 	3:30 PM 	Scheduled
+	
+W3 325 	Arik Air 	(BNI) Benin City 	3:30 PM 	Scheduled
+	
+AJ 303 	Aero 	(ENU) Enugu 	3:30 PM 	Scheduled
+	
+W3 642 	Arik Air 	(DNIM) Imo 	3:30 PM 	Scheduled
+	
+W3 624 	Arik Air 	(BNI) Benin City 	3:30 PM 	Scheduled
+	
+W3 614 	Arik Air 	(ENU) Enugu 	3:45 PM 	Scheduled
+	
+AJ 343 	Aero 	(DNIM) Imo 	3:50 PM 	Scheduled
+	
+AJ 129 	Aero 	(ABV) Abuja 	4:00 PM 	Scheduled
+	
+W3 105 	Arik Air 	(ABV) Abuja 	4:15 PM 	Scheduled
+	
+AJ 183 	Aero 	(KAD) Kaduna 	4:40 PM 	Scheduled
+	
+W3 304 	Arik Air 	(ACC) Accra 	5:00 PM 	Scheduled
+	
+W3 735 	Arik Air 	(ABV) Abuja 	5:00 PM 	Scheduled
+	
+9J 359 	Dana Airlines 	(ABV) Abuja 	5:10 PM 	Scheduled
+	
+W3 755 	Arik Air 	(PHC) Port Harcourt 	5:30 PM 	Scheduled
+	
+AJ 2003 	Aero 	(ACC) Accra 	5:40 PM 	Scheduled
+	
+AJ 319 	Aero 	(PHC) Port Harcourt 	5:50 PM 	Scheduled
+	
+AJ 131 	Aero 	(ABV) Abuja 	5:55 PM 	Scheduled
+
+AJ 151 	Aero 	(QUO) Uyo 	7:30 AM 	Scheduled
+	
+W3 321 	Arik Air 	(BNI) Benin City 	7:30 AM 	Scheduled
+	
+W3 370 	Arik Air 	(ABJ) Abidjan 	7:30 AM 	Scheduled
+	
+W3 640 	Arik Air 	(DNIM) Imo 	7:45 AM 	Scheduled
+	
+W3 630 	Arik Air 	(QRW) Warri 	7:50 AM 	Scheduled
+	
+W3 722 	Arik Air 	(ABV) Abuja 	8:00 AM 	Scheduled
+	
+AJ 351 	Aero 	(QRW) Warri 	8:00 AM 	Scheduled
+	
+W3 628 	Arik Air 	(ABB) Asaba 	8:30 AM 	Scheduled
+	
+EK 9768 	Emirates 	(KAN) Kano 	8:35 AM 	Scheduled
+	
+AJ 119 	Aero 	(ABV) Abuja 	8:45 AM 	Scheduled
+	
+AJ 341 	Aero 	(DNIM) Imo 	8:50 AM 	Scheduled
+W3 635 	Arik Air 	(QRW) Warri 	6:10 PM 	Scheduled
+	
+W3 745 	Arik Air 	(PHC) Port Harcourt 	6:10 PM 	Scheduled
+	
+W3 727 	Arik Air 	(ABV) Abuja 	6:15 PM 	Scheduled
+	
+W3 637 	Arik Air 	(CBQ) Calabar 	6:20 PM 	Scheduled
+	
+AJ 304 	Aero 	(ENU) Enugu 	6:25 PM 	Scheduled
+	
+W3 615 	Arik Air 	(ENU) Enugu 	6:45 PM 	Scheduled
+	
+W3 737 	Arik Air 	(ABV) Abuja 	6:45 PM 	Scheduled
+	
+9J 342 	Dana Airlines 	(PHC) Port Harcourt 	6:45 PM 	Scheduled
+	
+AJ 344 	Aero 	(DNIM) Imo 	6:45 PM 	Scheduled
+	
+9J 358 	Dana Airlines 	(ABV) Abuja 	6:45 PM 	Scheduled
+	
+EK 781 	Emirates 	(DXB) Dubai 	7:45 PM 	Scheduled    On-time 	
+W3 305 	Arik Air 	(ACC) Accra 	7:45 PM 	Scheduled
+	
+KL 587 	KLM 	(AMS) Amsterdam 	8:00 PM 	Scheduled
+	
+DL 9587 	Delta Air Lines 	(AMS) Amsterdam 	8:00 PM 	Scheduled
+	
+AF 8434 	Air France 	(AMS) Amsterdam 	8:00 PM 	Scheduled
+	
+SA 60 	South African Airways 	(JNB) Johannesburg 	8:00 PM 	Scheduled
+	
+SV 977 	Saudia 	(JED) Jeddah 	8:00 PM 	Scheduled
+	
+AJ 184 	Aero 	(KAD) Kaduna 	8:10 PM 	Scheduled
+	
+W3 736 	Arik Air 	(ABV) Abuja 	8:15 PM 	Scheduled
+	
+9J 360 	Dana Airlines 	(ABV) Abuja 	8:15 PM 	Scheduled
+	
+AJ 2004 	Aero 	(ACC) Accra 	8:20 PM 	Scheduled
+	
+AJ 320 	Aero 	(PHC) Port Harcourt 	8:45 PM 	Scheduled
+AJ 134 	Aero 	(ABV) Abuja 	9:10 PM 	Scheduled
+	
+TK 625 	Turkish Airlines 	(IST) Istanbul 	9:20 PM 	Scheduled    On-time 	
+IB 3336 	Iberia 	(MAD) Madrid 	9:30 PM 	Scheduled    On-time 	
+LH 595 	Lufthansa 	(PHC) Port Harcourt 	10:10 PM 	Scheduled
+	
+SN 7229 	Brussels Airlines 	(PHC) Port Harcourt 	10:10 PM 	Scheduled
+	
+UA 9021 	United Airlines 	(PHC) Port Harcourt 	10:10 PM 	Scheduled
+	
+ET 3717 	Ethiopian Airlines 	(ACC) Accra 	10:45 PM 	Scheduled
+	
+TK 6323 	Turkish Airlines 	(IST) Istanbul 	11:55 PM 	Scheduled
+	
